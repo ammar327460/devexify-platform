@@ -1,7 +1,9 @@
 :root {
-  /* ye colors baad mein logo se set honge */
-  --primary: #123B65;
+  --primary: #034385;
+  --accent: #24A7F6;
+  --grey: #676767;
   --bg: #ffffff;
+  --surface: #F4F8FC;
   --text: #172B4D;
 }
 
