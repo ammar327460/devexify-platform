@@ -1,0 +1,16 @@
+:root {
+  /* ye colors baad mein logo se set honge */
+  --primary: #123B65;
+  --bg: #ffffff;
+  --text: #172B4D;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.hello { color: var(--primary); text-align: center; margin-top: 3rem; }
+.sub { text-align: center; }
